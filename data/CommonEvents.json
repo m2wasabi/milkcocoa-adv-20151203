@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["var milkcocoa = new MilkCocoa('woodihoeu8hb.mlkcca.com');"]},{"code":655,"indent":0,"parameters":["var ds = milkcocoa.dataStore('rpgmv');"]},{"code":655,"indent":0,"parameters":["ds.on('send',function(data){"]},{"code":655,"indent":0,"parameters":["  if(data.value.message){"]},{"code":655,"indent":0,"parameters":["    $gameMessage.add(data.value.message);"]},{"code":655,"indent":0,"parameters":["  }"]},{"code":655,"indent":0,"parameters":["});"]},{"code":0,"indent":0,"parameters":[]}],"name":"milkcocoa","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
